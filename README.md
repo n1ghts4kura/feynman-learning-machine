@@ -1,2 +1,3 @@
-# feynman-learning-machine
-A learning apps that uses feynman learning theory to improve user's knowledge.
+# Feynman Learning Machine -- Your AI Assistant for Schooling
+
+wait 2 write...
