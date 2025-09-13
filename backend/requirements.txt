@@ -1,0 +1,8 @@
+openai-agents
+fastapi
+uvicorn
+# dotenv
+pydantic
+
+# mcp
+mcp-server-fetch

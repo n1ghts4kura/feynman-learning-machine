@@ -1,3 +1,6 @@
+# My ignore.
+# none here yet
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
